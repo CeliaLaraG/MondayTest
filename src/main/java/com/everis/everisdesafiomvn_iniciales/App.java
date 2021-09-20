@@ -12,6 +12,8 @@ public class App
     {
      String holaMundo = "hola mundo";
      System.out.println(StringUtils.capitalize(holaMundo));
+     String prueba = "prueba para nuevo commit";
+     System.out.println(prueba.toUpperCase());
     }
 }
     
